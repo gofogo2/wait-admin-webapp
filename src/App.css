@@ -1,3 +1,22 @@
+@font-face {
+  font-family: 'font_bold';
+  src: url('./SamsungSharpSans-Bold_0.ttf');
+}
+
+@font-face {
+  font-family: 'font_medium';
+  src: url('./SamsungSharpSans-Medium_0.ttf');
+}
+
+@font-face {
+  font-family: 'font_r';
+  src: url('./SamsungSharpSans-Regular_0.ttf');
+}
+
+body {
+  font-family: 'font_bold';
+}
+
 .App {
   text-align: center;
 }
